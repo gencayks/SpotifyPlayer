@@ -4,9 +4,6 @@
 
 ![Tests](https://github.com/plamere/spotipy/workflows/Tests/badge.svg?branch=master) [![Documentation Status](https://readthedocs.org/projects/spotipy/badge/?version=latest)](https://spotipy.readthedocs.io/en/latest/?badge=latest)
 
-## Documentation
-
-Spotipy's full documentation is online at [Spotipy Documentation](http://spotipy.readthedocs.org/).
 
 ## Installation
 
